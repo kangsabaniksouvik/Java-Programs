@@ -17,6 +17,14 @@
    7. Program to swap two numbers ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/swapping.java))
    8. Program to convert miles to kilometres ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/mile_to_km.java))
    9. Program to check leap year ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/leap_year.java))
+   10. Program to display grade for following grading system: ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/grade.java))
+         1. Percentage>=90% : Grade A 
+         2. Percentage>=80% : Grade B 
+         3. Percentage>=70% : Grade C 
+         4. Percentage>=60% : Grade D 
+         5. Percentage>=40% : Grade E 
+         6. Percentage<40% : Grade F
+   11. Program to check whether a number is divisible by 5 or not ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/divisibility.java))
 - [ ] Week 2:
 - [ ] Week 3:
 - [ ] Week 4:
