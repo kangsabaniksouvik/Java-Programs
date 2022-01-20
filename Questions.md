@@ -30,6 +30,13 @@
    2. Program to calculate factorial ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/factorial.java))
    3. Program to print Fibonacci range upto n terms by user ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/fibonacci.java))
    4. Program to reverse a number ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/reverse.java))
+   5. Program to check eligibility of candidates based on following constraints: 
+      (a) marks in Mathematics >= 60 
+      (b) marks in Physics >=50
+      (c) marks in Chemistry >=40 
+      (d) Total in all 3 subjects >=200
+         (Or)
+           Total in Maths & Physics>=150 ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/eligibility.java))
 - [ ] Week 3:
 - [ ] Week 4:
 - [ ] Week 5:
