@@ -37,6 +37,7 @@
       (d) Total in all 3 subjects >=200
          (Or)
            Total in Maths & Physics>=150 ([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/eligibility.java))
+    6. Program to check digit count([Solution](https://github.com/kangsabaniksouvik/Java-Programs/blob/main/Solutions/digitcount.java))
 - [ ] Week 3:
 - [ ] Week 4:
 - [ ] Week 5:
